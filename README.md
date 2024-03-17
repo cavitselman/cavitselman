@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am Cavit, I develop projects on .net core, I am a .net developer who is interested in learning and researching new information.</p>
+<p align="left">I am Cavit, I develop projects on .NET Core, I am a .NET developer who is interested in learning and researching new information.</p>
 
 ###
 
